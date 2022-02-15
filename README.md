@@ -6,8 +6,8 @@
 
 ##### IN BOTCONFIG.JSON DO NOT CHANGE ANY VARIABLE THE CountChannel var is for if you want to set a channel to count for users if not just leave it blank AND EVERYTHING ELSE IS SELF EPLAINATORY JUST CHANGE THE VALUES INSIDE "" TO MAKE YOUR BOT FUNCTION PROPERLY!
 # Links
-- 🔗 [Youtube Channel](https://www.youtube.com/channel/UCF9E-xef9jL9QgziZRDHKKQ)
-- [Support Server Link](https://discord.gg/ARu4hr6hJw)
+- 🔗 [Youtube Channel](https://www.youtube.com/channel/UCZAuDyVbCw2y1hVrSXEZY2w)
+- [Support Server Link](https://discord.gg/D65JuDaRbu)
 # Copyright 
 Copyright 2020 © All RIghts are Reserved | If you are using any part of code please give me credits for the same. Thanks
 
